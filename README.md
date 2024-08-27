@@ -1,4 +1,6 @@
-# Task Service
+![taskflow logo](assets/taskflow-logo.webp)
+
+# Taskflow
 This project serves as a template for managing and processing tasks using background workers, with tasks stored in a database. While the tasks provided are placeholders within the pkg folder, they demonstrate how you can implement similar functionality in your own projects.
 For instance, the project includes sample tasks like send email and run query. These tasks are intentionally simplified—they merely simulate activity by running a sleep function and occasionally failing. The failures are deliberate, allowing you to explore error handling and implement retries when necessary.
 
