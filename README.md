@@ -9,7 +9,7 @@ Aligns with the [Go project layout standards](https://github.com/golang-standard
 Incorporates best practices and up-to-date libraries
 Serves as a solid starting point for those looking to create a new project and in need of a reliable boilerplate.
 
-## Notes
+## Notess
 - There is a simple Docker Compose file included that contains a database to work against.
 - There is a `.env.template` file that you can use to control env variables for your application. Make a copy of this file with the name `.env` and it will be loaded automatically.
 - The existing `Makefile` contains 3 commands: `deps`, `build`, and `test`.
